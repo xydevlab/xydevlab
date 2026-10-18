@@ -13,11 +13,6 @@ I enjoy working across **app development, backend systems, AI/ML, computer visio
 ## 🚀 About Me
 
 - 📱 Native **Android & iOS Mobile Developer**
-- 🤖 Currently going deeper into **Artificial Intelligence & Machine Learning**
-- 🧠 Learning **Deep Learning, NLP, Computer Vision & AI Mathematics**
-- 🛠️ Building products from idea → design → development → deployment
-- 🌱 Exploring **AI, FastAPI, PostgreSQL & modern web technologies**
-- 🔧 Hobbyist maker working with **ESP32, OLED displays & AI robots**
 - 💡 Interested in AI-powered applications and intelligent systems
 - 📚 Lifelong learner who enjoys experimenting and building
 - 🌏 Based in Myanmar 
@@ -40,19 +35,6 @@ I enjoy working across **app development, backend systems, AI/ML, computer visio
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Currently studying:**
-
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- CNNs
-- Transformers
-- Generative AI
-- AI Mathematics
-- Model Deployment
-- AI APIs
 
 ### 🌐 Backend & Web
 
@@ -83,19 +65,4 @@ I enjoy working across **app development, backend systems, AI/ML, computer visio
 
 ## 🌱 SENLASY
 
-A volunteer-focused social platform designed to connect:
-
-**Volunteers ↔ Organizations ↔ Projects ↔ Communities**
-
-### Stack
-
-```text
-Flutter
-   ↓
-FastAPI
-   ↓
-PostgreSQL
-   ↓
-SQLAlchemy + Alembic
-   ↓
-JWT Authentication
+AI Planner
