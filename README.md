@@ -2,11 +2,11 @@
 
 ### Seint Seint Thu • Xiao Yuan Lv
 
-**Full Stack Developer • AI Engineer • Maker Hobbyist**
+**Mobile App Developer • AI Engineer • Maker Hobbyist**
 
-I’m a software developer passionate about building useful products, learning AI deeply, and turning ideas into real-world applications.
+I’m a software developer passionate about building good products and solving problem.
 
-I enjoy working across **app development, backend systems, AI/ML, computer vision, and hardware projects**.
+I enjoy working across **app development, backend systems, AI/ML and hardware projects**.
 
 ---
 
