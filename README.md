@@ -59,10 +59,3 @@ I enjoy working across **app development, backend systems, AI/ML and hardware pr
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
----
-
-# 🔭 What I'm Building
-
-## 🌱 SENLASY
-
-AI Planner
